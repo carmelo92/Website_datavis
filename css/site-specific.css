@@ -65,6 +65,7 @@ img.histodiagram{
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
+<<<<<<< HEAD
     display: block;
 }
 
@@ -89,6 +90,32 @@ img.histodiagram_small2{
     display: block;
 }
 
+=======
+    display: block;
+}
+
+
+img.histodiagram_small{
+    width: 30%;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: auto;
+    margin-left: left;
+    margin-bottom: auto;
+    display: block;
+}
+
+img.histodiagram_small2{
+    width: 50%;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: auto;
+    margin-left: left;
+    margin-bottom: auto;
+    display: block;
+}
+
+>>>>>>> 17e48a56b6d09878c2393b9a1994f28a81434050
 div.bio_text{
     color: #faf0e6;
     max-width: 800px;
